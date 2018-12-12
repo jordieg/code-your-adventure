@@ -6,4 +6,6 @@ If you have never used github before, here are some resources to get you started
   https://help.github.com/articles/fork-a-repo/
   
   TLDR:
-  
+    Open up a terminal window
+    Type: git clone https://github.com/jordieg/code-your-adventure.git
+    
